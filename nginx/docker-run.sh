@@ -1,0 +1,1 @@
+docker -D run -p 80:80 hello-web
