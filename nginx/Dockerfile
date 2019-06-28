@@ -1,3 +1,3 @@
 FROM nginx
-EXPOSE 80
-copy ./dist /usr/share/nginx/html
+copy dist /usr/share/nginx/html
+EXPOSE 8080
